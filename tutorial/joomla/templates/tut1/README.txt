@@ -1,0 +1,1 @@
+Tutorial for Joomla templates
